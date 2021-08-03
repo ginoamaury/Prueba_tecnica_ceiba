@@ -1,6 +1,6 @@
 # Prueba_practica_ceiba
 
-TVMazeApp is a mobile application developed in Java which shows users and your posts
+This is a mobile application developed in Java which shows users and your posts
 
 ## Starting 🚀
 
